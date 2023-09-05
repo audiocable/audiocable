@@ -1,4 +1,4 @@
-# 💫 Sid Singh
+# Hey :) I'm Sid Singh
 I'm currently working on full-stack react based development<br>In my free time, I work on embedded SystemC/C/C++ for IoT projects<br><br>
 
 
